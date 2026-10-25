@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/jgeller112/jgeller112.r-universe.dev
 	branch = HEAD
+[submodule "gazer"]
+	path = gazer
+	url = https://github.com/dmirman/gazer
+[submodule "shinygazer"]
+	path = shinygazer
+	url = https://github.com/jgeller112/shiny-gazeR
 [submodule "webgazeR"]
 	path = webgazeR
 	url = https://github.com/jgeller112/webgazeR
